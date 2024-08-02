@@ -1,0 +1,22 @@
+{
+  "sura_name": " اسم السوره ",
+  "islami": " اسلامي ",
+  "quran": "قران",
+  "hadeth": "حديث ",
+  "radio": "الاذاعه",
+  "sebha": "سبحه",
+  "hadeth_name": "اسم الحديث ",
+  "quran_karem_radio": "اذاعه القران الكريم ",
+  "number_of_tasbeh": "عدد التسبيحات",
+  "subhan_allah": "سبحان الله",
+  "alhamd_lilah": "الحمد لله ",
+  "there_is_no_god_but_god": "لا اله الا الله",
+  "god_is_great": "الله اكبر",
+  "settings": "الاعدادات",
+  "language": "اللغه",
+  "english": "الانجليزيه",
+  "theme": "النمط",
+  "light": "نهاري",
+  "arabic": "العربيه",
+  "dark": "ليلي"
+}
